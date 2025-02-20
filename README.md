@@ -1,4 +1,4 @@
-# Project Karate
+# Project ApiPlaywright
 Project for test concept of framework Playwright with python
 
 ## Getting Started
